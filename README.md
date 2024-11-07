@@ -2,6 +2,13 @@
 
 This is a comprehensive and fully responsive admin dashboard built with React, featuring a dynamic overview section, team and user management, an interactive calendar, FAQ section, and a variety of charts to visualize data. The project leverages modern libraries and tools to ensure a smooth, efficient user experience with a sleek design and supports both **dark** and **light** themes for enhanced usability.
 
+## snapshots
+
+![Calendar Feature](https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/calendar.png)
+![Calendar Feature](https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/dashboard.png)
+![Calendar Feature](https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/geography.png)
+![Calendar Feature](https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/users.png)
+
 ## Features
 
 - **Overview Dashboard**: Provides a high-level view of key data and metrics.
