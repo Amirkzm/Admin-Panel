@@ -44,7 +44,13 @@ npm install
 To run the admin dashboard locally:
 
 ```bash
-The app will be accessible at http://localhost:5000.
+npm start
+```
+
+The app will be accessible at
+
+```bash
+ http://localhost:5000.
 ```
 
 ## License
