@@ -2,12 +2,22 @@
 
 This is a comprehensive and fully responsive admin dashboard built with React, featuring a dynamic overview section, team and user management, an interactive calendar, FAQ section, and a variety of charts to visualize data. The project leverages modern libraries and tools to ensure a smooth, efficient user experience with a sleek design and supports both **dark** and **light** themes for enhanced usability.
 
-## snapshots
+## Snapshots
 
-![Calendar Feature](https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/calendar.png)
-![Calendar Feature](https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/dashboard.png)
-![Calendar Feature](https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/geography.png)
-![Calendar Feature](https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/users.png)
+<p align="center">
+  <a href="https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/calendar.png">
+    <img src="https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/calendar.png" width="200" alt="Calendar Feature">
+  </a>
+  <a href="https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/dashboard.png">
+    <img src="https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/dashboard.png" width="200" alt="Dashboard Overview">
+  </a>
+  <a href="https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/geography.png">
+    <img src="https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/geography.png" width="200" alt="Geography Chart">
+  </a>
+  <a href="https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/users.png">
+    <img src="https://github.com/Amirkzm/Admin-Panel/blob/255036abe13be484fea131a5b783f5324fe681c8/users.png" width="200" alt="User List">
+  </a>
+</p>
 
 ## Features
 
